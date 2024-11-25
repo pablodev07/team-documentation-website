@@ -1,0 +1,980 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "content": {
+        "category": "tech lead",
+        "circles": [
+          {
+            "one": "Coordination"
+          }
+        ],
+        "firstname": "Michael",
+        "lastname": "Scott",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "back end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Development"
+            },
+            "three": {
+              "name": "apis",
+              "category": "Development"
+            },
+            "four": {
+              "name": "devops",
+              "category": "Development"
+            },
+            "five": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "six": {
+              "name": "command line",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "eight": {
+              "name": "communication skills",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "Expert JavaScript: Deep understanding of JavaScript (ES6+ features, asynchronous programming, closures, etc.)",
+          "Mastery of Multiple Frameworks:  Proficiency in at least two major front-end frameworks (React, Vue.js, Angular) and ability to quickly learn new ones",
+          "Advanced Back-End Skills: Strong experience with server-side development, including API design (REST, GraphQL), security best practices, and performance optimization",
+          "Database Expertise:  Proficient with both SQL and NoSQL databases, including data modeling, query optimization, and database administration",
+          "DevOps Practices: Experience with CI/CD pipelines, containerization (Docker, Kubernetes), cloud platforms (AWS, Azure, GCP), and infrastructure automation",
+          "Testing Methodologies:  Mastery of various testing techniques (unit, integration, E2E, performance) and test-driven development (TDD)",
+          "Architecture and Design Patterns:  Ability to design and implement complex software architectures, including microservices, and apply appropriate design patterns",
+          "Security Best Practices:  Deep understanding of security vulnerabilities and how to mitigate them, including authentication, authorization, and data validation",
+          "Performance Optimization:  Expertise in optimizing both front-end and back-end performance, including caching strategies, code optimization, and database tuning",
+          "Problem-Solving and Critical Thinking:  Ability to analyze complex problems, identify root causes, and develop effective solutions",
+          "Technical Leadership:  Mentoring junior developers, providing technical guidance, and influencing technical decisions",
+          "Communication and Collaboration:  Excellent communication and collaboration skills, both within the team and with stakeholders",
+          "Project Management:  Experience managing projects, including planning, execution, and delivery"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "nestlé",
+              "category": "UX"
+            },
+            "four": {
+              "name": "EY",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Food Company",
+              "category": "Content"
+            },
+            "six": {
+              "name": "The Most Popular Agency",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Health Care",
+              "category": "UX"
+            }
+          }
+        ],
+        "jobTitle": "Head of technology",
+        "certificates": [
+          "Degree: Master of Science in Computer Science, Stanford University",
+          "Course: Advanced Software Architecture, MIT OpenCourseware",
+          "Course: Cloud-Native Application Development, Udemy",
+          "Course: Secure Coding Practices, SANS Institute",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 1,
+      "content": {
+        "category": "chapter lead",
+        "circles": [
+          {
+            "one": "Development"
+          }
+        ],
+        "firstname": "Dwight",
+        "lastname": "Schrute",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "back end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Development"
+            },
+            "three": {
+              "name": "apis",
+              "category": "Development"
+            },
+            "four": {
+              "name": "databases",
+              "category": "Development"
+            },
+            "five": {
+              "name": "devops",
+              "category": "Development"
+            },
+            "six": {
+              "name": "webservers",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "unix",
+              "category": "Development"
+            },
+            "eight": {
+              "name": "command line",
+              "category": "Development"
+            },
+            "nine": {
+              "name": "leadership",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "Server-Side Languages (e.g., Python, Java, Node.js, PHP)",
+          "Databases (SQL, NoSQL)",
+          "API Design (REST, GraphQL)",
+          "Security Best Practices",
+          "Authentication and Authorization",
+          "Server Management (Linux, Cloud Platforms)",
+          "Caching Strategies",
+          "Testing (Unit, Integration, API)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Containerization (Docker, Kubernetes)",
+          "CI/CD Pipelines",
+          "Performance Optimization",
+          "Data Structures and Algorithms",
+          "Design Patterns",
+          "Debugging and Troubleshooting",
+          "Message Queues (e.g., RabbitMQ, Kafka)",
+          "Microservices Architecture",
+          "Serverless Computing"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Food Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "TV Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Search Engine company",
+              "category": "Content"
+            }
+          }
+        ],
+        "jobTitle": "Lead back end developer",
+        "certificates": [
+    "Degree: Master of Science in Computer Science, Stanford University",
+    "Course: Secure Coding Practices, SANS Institute",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 2,
+      "content": {
+        "category": "chapter lead",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Coordination",
+            "three": "Development"
+          }
+        ],
+        "firstname": "Pam",
+        "lastname": "Beesly",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "three": {
+              "name": "qa manual",
+              "category": "Development"
+            },
+            "four": {
+              "name": "communication skills",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "documentation",
+              "category": "Coordination"
+            },
+            "six": {
+              "name": "Coordination",
+              "category": "Coordination"
+            },
+            "seven": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "nine": {
+              "name": "leadership",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "Front-End Basics: HTML, CSS, JavaScript",
+          "JavaScript Frameworks: Basic understanding of one or more (React, Vue.js, Angular)",
+          "Back-End Basics: Understanding of server-side principles",
+          "Server-Side Language: Familiarity with at least one (e.g., Python, Node.js, Java, PHP)",
+          "Databases: Basic SQL knowledge, introduction to NoSQL",
+          "API Interaction: Understanding of RESTful APIs",
+          "Version Control: Git and GitHub/GitLab basics",
+          "Basic Testing: Unit and integration testing concepts",
+          "Debugging and Troubleshooting: Basic skills",
+          "Problem-Solving: Ability to analyze and solve coding challenges",
+          "Learning Agility: Eagerness to learn new technologies and adapt quickly",
+          "Communication: Effective communication within a team",
+          "Collaboration: Ability to work effectively with others"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Food Company",
+              "category": "Development"
+            },
+            "three": {
+              "name": "VIP Businessmen website",
+              "category": "UX"
+            },
+            "four": {
+              "name": "The Most Popular Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Pharmacy",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Consultancy Company",
+              "category": "UX"
+            },
+            "seven": {
+              "name": "Snacks Company",
+              "category": "Content"
+            }
+          }
+        ],
+        "jobTitle": "front end developer",
+        "certificates": [
+          "Degree: Associate Degree in Web Development, Community College of Allegheny County",
+          "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+          "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+          "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "content": {
+        "category": "chapter lead",
+        "circles": [
+          {
+            "one": "Development",
+            "two": "UX"
+          }
+        ],
+        "firstname": "Jim",
+        "lastname": "Halpert",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "visual design",
+              "category": "UX"
+            },
+            "three": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "four": {
+              "name": "communication skills",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Coordination",
+              "category": "Coordination"
+            },
+            "six": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "seven": {
+              "name": "documentation",
+              "category": "Coordination"
+            },
+            "nine": {
+              "name": "CMS platforms",
+              "category": "Development"
+            },
+            "ten": {
+              "name": "responsive web design",
+              "category": "Development"
+            }
+          }
+        ],
+        "knowledge": [
+          "JavaScript Frameworks: React, Vue.js, Angular",
+          "HTML5 and CSS3",
+          "Responsive Web Design",
+          "UI/UX Principles",
+          "State Management (e.g., Redux, Vuex)",
+          "Testing (Unit, Integration, E2E)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Build Tools (Webpack, Parcel, Rollup)",
+          "Performance Optimization",
+          "Accessibility (WCAG guidelines)",
+          "Cross-Browser Compatibility",
+          "Component Libraries (e.g., Material UI, Ant Design)",
+          "Styling Preprocessors (Sass, Less)",
+          "Progressive Web Apps (PWAs)",
+          "Server-Side Rendering (SSR)",
+          "Static Site Generation (SSG)",
+          "API Integration (REST, GraphQL)",
+          "Debugging and Troubleshooting"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Development"
+            },
+            "two": {
+              "name": "Food Company",
+              "category": "UX"
+            },
+            "three": {
+              "name": "Consultancy Company",
+              "category": "Coordination"
+            },
+            "four": {
+              "name": "VIP Businessmen website",
+              "category": "Content"
+            },
+            "five": {
+              "name": "Candy Company",
+              "category": "Development"
+            },
+            "six": {
+              "name": "Snacks Company",
+              "category": "UX"
+            },
+            "seven": {
+              "name": "Disruptive Agency",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "jobTitle": "lead front end developer",
+        "certificates": [
+    "Degree: Master of Science in Computer Science, Stanford University",
+    "Course: UX Design Masterclass, Interaction Design Foundation",
+    "Course: Design Thinking Workshop, IDEO U",
+    "Course: Cloud-Native Application Development, Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 4,
+      "content": {
+        "category": "chapter lead",
+        "circles": [
+          {
+            "one": "UX"
+          }
+        ],
+        "firstname": "Oscar",
+        "lastname": "Martinez",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "graphic design",
+              "category": "UX"
+            },
+            "two": {
+              "name": "web design",
+              "category": "UX"
+            },
+            "three": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "four": {
+              "name": "art direction",
+              "category": "UX"
+            },
+            "five": {
+              "name": "creative thinking",
+              "category": "UX"
+            },
+            "six": {
+              "name": "visual design",
+              "category": "UX"
+            }
+          }
+        ],
+        "knowledge": [
+          "User Research Methodologies",
+          "User Interface (UI) Design",
+          "Information Architecture",
+          "Interaction Design",
+          "Usability Testing",
+          "User Personas",
+          "User Flows and Journeys",
+          "Wireframing and Prototyping",
+          "Visual Design Principles",
+          "Accessibility (WCAG guidelines)",
+          "Design Thinking",
+          "Design Systems",
+          "User-Centered Design",
+          "Information Visualization",
+          "Content Strategy",
+          "Collaboration and Communication",
+          "Design Tools (Figma, Sketch, Adobe XD)",
+          "A/B Testing and Data Analysis"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Consultancy Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "jobTitle": "Lead UX Designer",
+        "certificates": [
+    "Degree: Bachelor of Fine Arts in Interaction Design, California College of the Arts",
+    "Course: User Research Fundamentals, Nielsen Norman Group",
+    "Course: UX Design Masterclass, Interaction Design Foundation",
+    "Course: Design Thinking Workshop, IDEO U",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 5,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Development"
+          }
+        ],
+        "firstname": "Andy",
+        "lastname": "Bernard",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "six": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "JavaScript Frameworks: React, Vue.js",
+          "HTML5 and CSS3",
+          "Responsive Web Design",
+          "State Management (e.g., Redux, Vuex)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Cross-Browser Compatibility",
+          "Component Libraries (e.g., Material UI, Ant Design)",
+          "Styling Preprocessors (Sass, Less)",
+          "Progressive Web Apps (PWAs)",
+          "API Integration (REST, GraphQL)",
+          "Debugging and Troubleshooting"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Newspaper",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Ad Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Health Agency",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Insurance Company",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Music Company",
+              "category": "UX"
+            },
+            "eight": {
+              "name": "Club Disco",
+              "category": "Coordination"
+            },
+            "nine": {
+              "name": "VIP Businessmen",
+              "category": "Content"
+            }
+          }
+        ],
+        "jobTitle": "devops",
+        "certificates": [
+    "Degree: Associate Degree in Web Development, Community College of Allegheny County",
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 6,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Development"
+          }
+        ],
+        "firstname": "Darryl",
+        "lastname": "Philbin",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "two": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "Front-End Basics: HTML, CSS, JavaScript",
+          "JavaScript Frameworks: Basic understanding of one or more (React, Vue.js, Angular)",
+          "Back-End Basics: Understanding of server-side principles",
+          "Server-Side Language: Familiarity with at least one (e.g., Python, Node.js, Java, PHP)",
+          "Databases: Basic SQL knowledge, introduction to NoSQL",
+          "API Interaction: Understanding of RESTful APIs",
+          "Version Control: Git and GitHub/GitLab basics",
+          "Basic Testing: Unit and integration testing concepts",
+          "Debugging and Troubleshooting: Basic skills",
+          "Problem-Solving: Ability to analyze and solve coding challenges",
+          "Learning Agility: Eagerness to learn new technologies and adapt quickly",
+          "Communication: Effective communication within a team",
+          "Collaboration: Ability to work effectively with others"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Newspaper",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Food Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "VIP Businessmen website",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Gossip News website",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Website Ads",
+              "category": "UX"
+            }
+          }
+        ],
+        "jobTitle": "back end developer",
+        "certificates": [
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 7,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "UX"
+          }
+        ],
+        "firstname": "Erin",
+        "lastname": "Hannon",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "graphic design",
+              "category": "UX"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "three": {
+              "name": "banners",
+              "category": "Content"
+            },
+            "four": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "six": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "seven": {
+              "name": "documentation",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "User Research Methodologies",
+          "User Interface (UI) Design",
+          "User Personas",
+          "User Flows and Journeys",
+          "Wireframing and Prototyping",
+          "Visual Design Principles",
+          "Accessibility (WCAG guidelines)",
+          "Design Systems",
+          "Collaboration and Communication",
+          "Design Tools (Figma, Sketch, Adobe XD)"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Cars Company",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Advertising Agency",
+              "category": "Development"
+            },
+            "three": {
+              "name": "VIP Businessmen website",
+              "category": "UX"
+            },
+            "four": {
+              "name": "The Most Popular Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Women Magazine",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Airlines",
+              "category": "Development"
+            }
+          }
+        ],
+        "jobTitle": "UX Designer",
+        "certificates": [
+          "Degree: Bachelor of Fine Arts in Interaction Design, California College of the Arts",
+          "Course: User Research Fundamentals, Nielsen Norman Group",
+          "Course: UX Design Masterclass, Interaction Design Foundation",
+          "Course: Design Thinking Workshop, IDEO U",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Development"
+          }
+        ],
+        "firstname": "Angela",
+        "lastname": "Martin",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end Development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "digital marketing",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "content writing",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "JavaScript Frameworks: React, Vue.js",
+          "HTML5 and CSS3",
+          "Responsive Web Design",
+          "State Management (e.g., Redux, Vuex)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Cross-Browser Compatibility",
+          "Component Libraries (e.g., Material UI, Ant Design)",
+          "Styling Preprocessors (Sass, Less)",
+          "Progressive Web Apps (PWAs)",
+          "API Integration (REST, GraphQL)",
+          "Debugging and Troubleshooting"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Newspaper",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Service Consultancy Agency",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "jobTitle": "full stack developer",
+        "certificates": [
+          "Degree: Associate Degree in Web Development, Community College of Allegheny County",
+          "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "UX"
+          }
+        ],
+        "firstname": "Kelly",
+        "lastname": "Kapoor",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "graphic design",
+              "category": "UX"
+            },
+            "two": {
+              "name": "web design",
+              "category": "UX"
+            },
+            "three": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "four": {
+              "name": "art direction",
+              "category": "UX"
+            },
+            "five": {
+              "name": "creative thinking",
+              "category": "UX"
+            },
+            "six": {
+              "name": "visual design",
+              "category": "UX"
+            }
+          }
+        ],
+        "knowledge": [
+          "User Research Methodologies",
+          "User Interface (UI) Design",
+          "Information Architecture",
+          "Interaction Design",
+          "Usability Testing",
+          "User Personas",
+          "User Flows and Journeys",
+          "Wireframing and Prototyping",
+          "Visual Design Principles",
+          "Accessibility (WCAG guidelines)",
+          "Design Thinking",
+          "Design Systems",
+          "User-Centered Design",
+          "Information Visualization",
+          "Content Strategy",
+          "Collaboration and Communication",
+          "Design Tools (Figma, Sketch, Adobe XD)",
+          "A/B Testing and Data Analysis"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Newspaper",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Consultancy Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "jobTitle": "UX Designer",
+        "certificates": [
+    "Degree: Bachelor of Fine Arts in Interaction Design, California College of the Arts",
+    "Course: User Research Fundamentals, Nielsen Norman Group",
+    "Course: UX Design Masterclass, Interaction Design Foundation",
+    "Course: Design Thinking Workshop, IDEO U",
+    "Language: English"
+  ]
+      }
+    }
+  ]
+}

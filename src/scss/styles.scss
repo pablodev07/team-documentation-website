@@ -1,0 +1,107 @@
+@import "./partials/fonts";
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #333;
+  color: white;
+}
+
+.container {
+  max-width: 100%;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  transition: ease-out max-width 1s;
+
+  @media screen and (max-width: 480px){
+    padding-right: var(--chakra-space-5);
+    padding-left: var(--chakra-space-5);
+  }
+
+  @media screen and (min-width: 576px) {
+    max-width: 540px;
+  }
+  @media screen and (min-width: 768px) {
+    max-width: 720px;
+  }
+  @media screen and (min-width: 992px) {
+    max-width: 960px;
+  }
+  @media screen and (min-width: 1200px) {
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 1140px;
+  }
+}
+
+.chakra-switch__track{
+  box-shadow: 0px 0px 4px #E73AF6;
+}
+.chakra-switch__thumb{
+  content: url("/assets/images/sun_icon.svg");
+  &[data-checked]{
+      background-color: var(--chakra-colors-pink-500);
+      content: url("/assets/images/moon_icon.svg");
+    }
+  }
+
+  .slick-dots li.slick-active button:before{
+    background-color: #E73AF6;
+  }
+
+  .slick-dots li button:before{
+    border: 2px solid #E73AF6;
+    color: #E73AF6;
+    content: "" !important;
+    border-radius: 100%;
+    opacity: 1 !important;
+    width: 15px !important;
+    height: 15px !important;
+  }
+
+  ul.slick-dots{
+    bottom: -35px !important;
+    display: flex !important;
+    justify-content: center;
+    gap: 15px;
+  }
+
+  .theme-light{
+    .slick-arrow{
+      &::before{
+        color: #E73AF6;
+      }
+    }
+  }
+
+  /*estilos para generar espacio entre slides desktop en What We Do, "ver mas experiencias"*/
+.projectsSeeMoreSlider .slick-track{
+    display: flex !important;
+  }
+  .projectsSeeMoreSlider .slick-slide[data-index="0"]{
+    @media screen and (min-width: 1024px) {
+      margin-right: 10px;
+    }
+    
+  }
+  .projectsSeeMoreSlider .slick-slide[data-index="1"]{
+    @media screen and (min-width: 1024px) {
+    margin-right: 10px;
+    }
+  }
+/*estilos accordion para evitar estilos last of type por default*/
+  .chakra-accordion__item:last-of-type{
+    border-bottom-width: 2px !important;
+  }
+    
+/* Esconder visualmente scrollbar para Chrome, Safari y Opera */
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Esconder visualmente scrollbar para IE, Edge y Firefox */
+.hide-scrollbar {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}

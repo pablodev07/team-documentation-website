@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "Newspaper",
+            "logo": "/assets/images/clients/logo0.svg",
+            "type": "Micrositio & herramientas"
+        },
+        {
+            "id": 1,
+            "name": "Candy Website",
+            "logo": "/assets/images/clients/logo1.svg",
+            "type": "Sitio web de sorteos"
+        },
+        {
+            "id": 2,
+            "name": "Women Magazine",
+            "logo": "/assets/images/clients/logo2.svg",
+            "type": "CMS y sitio web"
+        },
+        {
+            "id": 3,
+            "name": "Disruptive Agency",
+            "logo": "/assets/images/clients/logo3.svg",
+            "type": "Experiencia digital inmersiva"
+        },
+        {
+            "id": 4,
+            "name": "Consultancy Company",
+            "logo": "/assets/images/clients/logo4.svg",
+            "type": "Montaje en CMS y maquetado"
+        },
+        {
+            "id": 5,
+            "name": "VIP Businessmen",
+            "logo": "/assets/images/clients/logo5.svg",
+            "type": "Sitio Web autoadministrable"
+        },
+        {
+            "id": 6,
+            "name": "Pharmacy",
+            "logo": "/assets/images/clients/logo6.svg",
+            "type": "Sitio web de promociones"
+        },
+        {
+            "id": 7,
+            "name": "Website Ads",
+            "logo": "/assets/images/clients/logo7.svg",
+            "type": "Banners"
+        },
+        {
+            "id": 8,
+            "name": "Graphic Design",
+            "logo": "/assets/images/clients/logo8.svg",
+            "type": "Análisis e investigación UX"
+        },
+        {
+            "id": 9,
+            "name": "Services Company",
+            "logo": "/assets/images/clients/logo9.svg",
+            "type": "Sitio web de evento y registro"
+        },
+        {
+            "id": 10,
+            "name": "The Most Popular Agency",
+            "logo": "/assets/images/clients/logo10.svg",
+            "type": "Cambios de content"
+        },
+        {
+            "id": 11,
+            "name": "Food Website",
+            "logo": "/assets/images/clients/logo11.svg",
+            "type": "Análisis e investigación UX"
+        }
+    ]
+}

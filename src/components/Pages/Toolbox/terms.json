@@ -1,0 +1,128 @@
+{
+    "management": [
+        {
+            "id": 0,
+            "title": "pitch",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 1,
+            "title": "stakeholders",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 2,
+            "title": "forecast",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 3,
+            "title": "brief",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 4,
+            "title": "scope",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 5,
+            "title": "eod",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 6,
+            "title": "batch",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+            "color": "#6FCCB3"
+        }
+    ],
+    "dev": [
+        {
+            "id": 0,
+            "title": "deployment",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 1,
+            "title": "merge",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 2,
+            "title": "API",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "color": "#E73AF6"
+        }
+    ],
+    "ux": [
+        {
+            "id": 0,
+            "title": "benchmarking",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas..",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 1,
+            "title": "user flow",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 2,
+            "title": "architecture",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 3,
+            "title": "user journey",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 4,
+            "title": "kpis",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. ",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 5,
+            "title": "wireframe",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 6,
+            "title": "lo-fi",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 7,
+            "title": "hi-fi",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 8,
+            "title": "component",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie.",
+            "color": "#2E39A7"
+        },
+        {
+            "id": 9,
+            "title": "user persona",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+            "color": "#2E39A7"
+        }
+    ]
+}

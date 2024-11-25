@@ -1,0 +1,98 @@
+{
+    "docs": [
+        {
+            "id": 0,
+            "name": "MDN WEBDOCS",
+            "url": "https://developer.mozilla.org/en-US/",
+            "color": "#D6E05F"
+        },
+        {
+            "id": 1,
+            "name": "GITHUB",
+            "url": "https://github.com",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 2,
+            "name": "CSS TRICKS",
+            "url": "https://css-tricks.com",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 3,
+            "name": "HOW TO INSTALL WORDPRESS",
+            "url": "https://developer.wordpress.org/advanced-administration/before-install/howto-install/",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 4,
+            "name": "GETTING STARTED WITH DRUPAL",
+            "url": "https://www.drupal.org/documentation",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 5,
+            "name": "ATLASSIAN",
+            "url": "https://www.atlassian.com",
+            "color": "#D6E05F"
+        },
+        {
+            "id": 6,
+            "name": "VERCEL DOCS",
+            "url": "https://vercel.com/docs",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 7,
+            "name": "GIT REFERENCE",
+            "url": "https://git-scm.com/docs",
+            "color": "#D6E05F"
+        },
+        {
+            "id": 8,
+            "name": "FIGMA HELP CENTER",
+            "url": "https://help.figma.com/hc/en-us",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 9,
+            "name": "TAILWIND CSS",
+            "url": "https://tailwindcss.com",
+            "color": "#6FCCB3"
+        }
+        
+         
+    ],
+    "utils": [
+        {
+            "id": 0,
+            "name": "CUSTOMIZE YOUR WINDOWS TERMINAL",
+            "url": "https://www.youtube.com/watch?v=K-hby0Op1dM",
+            "color": "#6FCCB3"
+        },
+        {
+            "id": 1,
+           "name": "LET'S LEARN FIGMA",
+            "url": "https://help.figma.com/hc/en-us/categories/360002051613-Get-started",
+            "color": "#D6E05F"
+        },
+        {
+            "id": 2,
+            "name": "ATLASSIAN: COMPARING GITFLOWS",
+            "url": "https://www.atlassian.com/git/tutorials/comparing-workflows",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 3,
+            "name": "THE BEST UI WEB KITS",
+            "url": "https://newpulselabs.com/best-figma-ui-kits-web-design/",
+            "color": "#E73AF6"
+        },
+        {
+            "id": 4,
+            "name": "DEPLOYING NEXT.JS TO VERCEL",
+            "url": "https://www.youtube.com/watch?v=AiiGjB2AxqA",
+            "color": "#6FCCB3"
+        }
+    ]
+}

@@ -1,0 +1,2164 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "clientTitle": "Newspaper",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Real Estate News",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "banner": [
+                            "https://images.unsplash.com/photo-1605146769289-440113cc3d00?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                        ],
+                        "cell": "newspaper",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+
+                                        "name": "Jim",
+                                        "lastname": "Halpert",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 8,
+
+                                        "name": "Angela",
+                                        "lastname": "Martin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                  
+                                ],
+                                "UX": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Kevin Malone",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 1,
+                                "name": "Dwight",
+                                "lastname": "Schrute",
+                                "circles": [
+                                    {
+                                        "one": "Backend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief |  September 2018",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Deployed project |  November 2018",
+                                "time": "75"
+                            },
+                            {
+                                "title": "Development of sections |  October 2018",
+                                "time": "50"
+                            },
+                            {
+                                "title": "Maintenance | December 2018 - Present",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: vue / tailwind ",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "back end: node.js",
+                                "color": "primary.300"
+                            },
+                            {
+                                "text": "cms: strapi",
+                                "color": "green.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            },
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 1,
+                        "title": "Agricultural News",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://picsum.photos/id/28/1074/582"
+                        ],
+                        "cell": "newspaper",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Jim",
+                                        "lastname": "Halpert",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "Barbara",
+                                        "lastname": "Martin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                  
+                                ],
+                                "UX": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Kevin Malone",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            },
+                            {
+                                "name": "Cathy Simms",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 1,
+                                "avatar": "/assets/images/avatar-Dwight.jpg",
+                                "name": "Dwight",
+                                "lastname": "Schrute",
+                                "circles": [
+                                    {
+                                        "one": "Backend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | February 2019",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Development starts |  March 2021",
+                                "time": "45"
+                            },
+                            {
+                                "title": "Feature development |  May 2021",
+                                "time": "60"
+                            },
+                            {
+                                "title": "Deployment of first sections | May 2021",
+                                "time": "70"
+                            },
+                            {
+                                "title": "Deployment of last sections |  June 2021",
+                                "time": "80"
+                            },
+                            {
+                                "title": "Present - maintenance | July 2021",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: vue / tailwind",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "back end: laravel",
+                                "color": "primary.300"
+                            },
+                            {
+                                "text": "cms: strapi",
+                                "color": "green.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            },
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "clientTitle": "Candy Website",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Strawberry Candy",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://picsum.photos/id/107/1074/582"
+                        ],
+                        "cell": "candywebsite",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Backend & Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Andy",
+                                        "lastname": "Bernard",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Meredith Palmer",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch |  October 2022",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Development starts | October 2022",
+                                "time": "20"
+                            },
+                            {
+                                "title": "Deployed project | May 2023",
+                                "time": "60"
+                            },
+                            {
+                                "title": "Maintenance | July 2023",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: vue",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "back end: laravel",
+                                "color": "primary.300"
+                            },
+                            {
+                                "text": "cms: drupal",
+                                "color": "green.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            },
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            },
+                            {
+                                "src": "https://images.unsplash.com/photo-1680016661694-1cd3faf31c3a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            },
+                            {
+                                "src": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/96754f60b992041bb20458082d346baac94c587c"
+                            },
+                            {
+                                "src": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/765da3313f195c9d5a8a906e5ba1a27d48762e86"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 1,
+                        "title": "Snacks Website",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/04f6e23d1c45f4ff4c71244234e62baa335450a1"
+                        ],
+                        "cell": "candywebsite",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Backend & Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Andy",
+                                        "lastname": "Bernard",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non..",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch |  october 2022",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Development starts | october 2022",
+                                "time": "20"
+                            },
+                            {
+                                "title": "Deployed project | May 2023",
+                                "time": "60"
+                            },
+                            {
+                                "title": "Maintenance | June 2023",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: vue",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "back end: laravel",
+                                "color": "primary.300"
+                            },
+                            {
+                                "text": "cms: drupal",
+                                "color": "green.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            },
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/96754f60b992041bb20458082d346baac94c587c"
+                            },
+                            
+                            {
+                                "src": "https://images.unsplash.com/photo-1680016661694-1cd3faf31c3a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            },
+                            {
+                                "src": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                            },
+                            {
+                                "src": "https://s3-figma-hubfile-images-production.figma.com/hub/file/carousel/img/765da3313f195c9d5a8a906e5ba1a27d48762e86"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "clientTitle": "Women Magazine",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "News website with CMS",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/2237795857/2f8b66a9-e290-4ee4-9203-ea5193266d7a-cover.png"
+                        ],
+                        "cell": "womenmagazine",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Backend & Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "Angela",
+                                        "lastname": "Ortíz",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch |  october 2021",
+                                "time": "10"
+                            },
+                            {
+                                "title": "UX Research and benchmarking | November 2021",
+                                "time": "35"
+                            },
+                            {
+                                "title": "Wireframing |  December 2021",
+                                "time": "20"
+                            },
+                            {
+                                "title": "Blueprint y backend architecture | February 2022",
+                                "time": "55"
+                            },
+                            {
+                                "title": "Front end development |  March 2022",
+                                "time": "60"
+                            },
+                            {
+                                "title": "How to documentation |  June 2022",
+                                "time": "65"
+                            },
+                            {
+                                "title": "Deployment |  July 2022",
+                                "time": "85"
+                            },
+                            {
+                                "title": "Maintenance |  August 2022 - Present",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: react / chakra UI",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "back end: drupal / php",
+                                "color": "primary.300"
+                            },
+                            {
+                                "text": "cms: drupal",
+                                "color": "green.500"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Phyllis Lapin-Vance",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            },
+                            {
+                                "name": "Robert California",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Brandbook",
+                                "link": "https://google.com"
+                            },
+                            {
+                                "text": "Website",
+                                "link": "https://www.vogue.com"
+                            },
+                            {
+                                "text": "Code Repository Frontend",
+                                "link": "https://github.com/"
+                            },
+                            {
+                                "text": "Staging environment",
+                                "link": "https://codepen.com"
+                            },
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "clientTitle": "Disruptive Agency",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Augmented reality experience",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/2748171228/e25a3d5f-74ac-4258-98ba-06eaaabb1ed0-cover.png"
+                        ],
+                        "cell": "disruptiveagency",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 4,
+                                        "name": "Andy",
+                                        "lastname": "Bernard",
+                                        "circles": [
+                                            {
+                                                "one": "Backend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Development starts |  May 2023",
+                                "time": "50"
+                            },
+                            {
+                                "title": "Deployment |  September 2023",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: REACT / FRAMEWORK AR",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Ryan Howard",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 4,
+            "clientTitle": "Consultancy Company",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "HTML Website Layouting",
+                        "context": "Peachy es una plataforma de subscripción de contenido. Este proyecto es trabajado en conjunto con Consultancy Company,donde se asistió a dicha agencia para agilizar con la producción del proyecto.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "/assets/images/projects/peachy.jpg"
+                        ],
+                        "cell": "consultancycompany1",
+                        "cellmembers": [
+                            {
+                                "content": [
+                                    {
+                                        "id": 8,
+                                        "name": "Angela",
+                                        "lastname": "Martin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Kevin Malone",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch | November 2023",
+                                "time": "30"
+                            },
+                            {
+                                "title": "HTML Layouting |  January 2024",
+                                "time": "100"
+                            },
+                            {
+                                "title": "Deployment | November 2024",
+                                "time": "80"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "front end: react / tailwind css",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Website",
+                                "link": "https://google.com"
+                            },
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            },
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com/"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 1,
+                        "title": "Wordpress Elementor building",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/1431718681/d531f5d8-9fc2-431f-b8bf-05313f2c09f2-cover.png",
+                            "https://s3-alpha.figma.com/hub/file/2497704516/c7739567-2e42-4b51-b850-6c64d98eaf92-cover.png"
+                        ],
+                        "cell": "consultancycompany",
+                        "cellmembers": [
+                            {
+                                "ux": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 3,
+                                "name": "Jim",
+                                "lastname": "Halpert",
+                                "circles": [
+                                    {
+                                        "one": "Frontend"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | March 2023",
+                                "time": "30"
+                            },
+                            {
+                                "title": "Wordpress building begins |  July 2023",
+                                "time": "70"
+                            },
+                            {
+                                "title": "Deployment of first website |  May 2023",
+                                "time": "80"
+                            },
+                            {
+                                "title": "Deployment of last website |  August - September 2023",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "CMS: WORDPRESS / ELEMENTOR",
+                                "color": "green.500"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Gabe Lewis",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#D6E05F",
+                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "textColor": "#191528"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 5,
+            "clientTitle": "VIP Businessmen",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Website with CMS ",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/5020444679/cd382c87-8adc-47b7-b0af-94e6fa733c08-cover.png"
+                        ],
+                        "cell": "vipbusiness",
+                        "cellmembers": [
+                            {
+                                "content": [
+                                    {
+                                        "id": 7,
+                                        "name": "Erin",
+                                        "lastname": "Hannon",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ],
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Jim",
+                                        "lastname": "Halpert",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Backend & Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Phyllis Lapin-Vance",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image":"https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 1,
+                                "name": "Dwight",
+                                "lastname": "Schrute",
+                                "circles": [
+                                    {
+                                        "one": "Backend & Devops"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch | June 2021",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Deployed project | October 2022",
+                                "time": "70"
+                            },
+                            {
+                                "title": "UX Research and benchmarking | September 2021",
+                                "time": "30"
+                            },
+                            {
+                                "title": "Content writing |  November 2022",
+                                "time": "85"
+                            },
+                            {
+                                "title": "UI styles | January 2022",
+                                "time": "40"
+                            },
+                            {
+                                "title": "Maintenance | March - May 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "Development |  March 2022",
+                                "time": "50"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: WORDPRESS & CLOUD9 / BOOTSTRAP CSS",
+                                "color": "lima.500"
+                            },
+                            {
+                                "text": "CMS: WORDPRESS",
+                                "color": "green.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com/"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 6,
+            "clientTitle": "Pharmacy",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Starting Campaign",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/6588108684/74574122-6a58-4276-a2ec-df8e5113d1f7-cover.png"
+                        ],
+                        "cell": "pharmacy",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ],
+                                "UX": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Devops"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | July 2022",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Development and deployment | August 2022",
+                                "time": "100"
+                            },
+                            {
+                                "title": "UX Research and benchmarking | July 2022",
+                                "time": "60"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Meredith Palmer",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: ANGULAR / BOOTSTRAP CSS",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            },
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 1,
+                        "title": "Marathon Campaign",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/5193998926/96b3c18e-4420-4458-9c94-6671acf57042-cover.png"
+                        ],
+                        "cell": "pharmacy",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ],
+                                "UX": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Devops"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | January 2023",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Deployment | March 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "Development starts | February 2023",
+                                "time": "60"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: REACT / TAILWIND CSS",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            },
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ],
+                "three": [
+                    {
+                        "id": 2,
+                        "title": "Print Campaign",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/2360814517/909c8dbf-54a7-49e6-acd3-503d5de7bf17-cover.png"
+                        ],
+                        "cell": "pharmacy",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 3,
+                                        "name": "Dwight",
+                                        "lastname": "Schrute",
+                                        "circles": [
+                                            {
+                                                "one": "Devops"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Frontend"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ],
+                                "UX": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Devops"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | September 2023",
+                                "time": "10"
+                            },
+                            {
+                                "title": "Deployment | October 2023",
+                                "time": "75"
+                            },
+                            {
+                                "title": "Development starts | November 2023",
+                                "time": "50"
+                            },
+                            {
+                                "title": "Maintenance | December 2023",
+                                "time": "100"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: VUE / VUETIFY CSS",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Stanley Hudson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Creed Bratton",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Meredith Palmer",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Code Repository",
+                                "link": "https://github.com/"
+                            },
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 7,
+            "clientTitle": "Website Ads",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Website for creating ads",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/4965779768/a5850287-df02-43a7-89cd-ee68469bb109-cover.png"
+                        ],
+                        "cell": "websiteads",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Banners"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Andy",
+                                        "lastname": "Bernard",
+                                        "circles": [
+                                            {
+                                                "one": "Banners"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Coordination"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Kevin Malone",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#D6E05F",
+                                "textColor": "#191528",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Pitch | october 2023",
+                                "time": "25"
+                            },
+                            {
+                                "title": "Deployment | November 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "Development | october 2023",
+                                "time": "60"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "FRONT END: HTML5 / JAVASCRIPT",
+                                "color": "lima.500"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "How to install",
+                                "link": "https://google.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 8,
+            "clientTitle": "Graphic Design",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "UX Analysis project",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/858291939/14dda654-9bf1-47a5-ba66-904aa3003c6e-cover.png"
+                        ],
+                        "cell": "Graphic Design",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 7,
+                                        "name": "Erin",
+                                        "lastname": "Hannon",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Coordination"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Meredith Palmer",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | August 2023",
+                                "time": "25"
+                            },
+                            {
+                                "title": "Analysis delivery | october 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "UX Research and Analysis | September 2023",
+                                "time": "65"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "Assets & Design Resources",
+                                "link": "https://www.figma.com"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 9,
+            "clientTitle": "Services Company",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Event registration website",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/1325658025/fd9f7d70-6143-45c5-a3bf-6ff18ec7f9ae-cover.png"
+                        ],
+                        "cell": "servicescompany",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 7,
+                                        "name": "Erin",
+                                        "lastname": "Hannon",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Coordination"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | August 2023",
+                                "time": "25"
+                            },
+                            {
+                                "title": "Analysis delivery | october 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "UX Research and Analysis | September 2023",
+                                "time": "65"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Roy Anderson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#E73AF6",
+                                "image": "https://avatar.iran.liara.run/public/boy"
+                            },
+                            {
+                                "name": "Meredith Palmer",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl"
+                            }
+                        ],
+                        "process": [
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/6247762682/2afcc689-16cd-4ce4-86ca-958944ce350b-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/3625747496/ce589ff6-97d2-43e4-92fa-4eaf735027e2-cover.png"
+                            },
+                            {
+                                "src": "https://s3-alpha.figma.com/hub/file/309380907/da91b3a4-5fbb-4f59-a6ac-1edc7d049c3b-cover"
+                            },
+                            {
+                                "src": "https://cdn.dribbble.com/users/372375/screenshots/5614614/design_system_lite_template_for_figma__1__4x.png"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 10,
+            "clientTitle": "The Most Popular Agency",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "Content writing",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/3589740630/afc6bc30-d761-46ac-920b-b91456b9e9dd-cover.png"
+                        ],
+                        "cell": "themostpopularagency",
+                        "cellmembers": [
+                            {
+                                "dev": [
+                                    {
+                                        "id": 7,
+                                        "name": "Erin",
+                                        "lastname": "Hannon",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 2,
+                                        "name": "Pam",
+                                        "lastname": "Beesly",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 8,
+                                        "name": "Angela",
+                                        "lastname": "Martin",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 6,
+                                        "name": "Darryl",
+                                        "lastname": "Philbin",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 5,
+                                        "name": "Andy",
+                                        "lastname": "Bernard",
+                                        "circles": [
+                                            {
+                                                "one": "Content"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Coordination"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Kevin Malone",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                                "color": "#D6E05F",
+                                "image": "https://avatar.iran.liara.run/public/boy",
+                                "textColor": "#191528"
+                            },
+                            {
+                                "name": "Karen Fillippelli",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#D6E05F",
+                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "textColor": "#191528"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | November 2022",
+                                "time": "35"
+                            },
+                            {
+                                "title": "Project ends | November 2023",
+                                "time": "100"
+                            },
+                            {
+                                "title": "Content writing starts |  May 2023",
+                                "time": "65"
+                            }
+                        ],
+                        "tech": [
+                            {
+                                "text": "cms: aem",
+                                "color": "green.500"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 11,
+            "clientTitle": "Food Website",
+            "tabs": {
+                "one": [
+                    {
+                        "id": 0,
+                        "title": "UX Analysis project",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
+                        "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
+                        "banner": [
+                            "https://s3-alpha.figma.com/hub/file/2967085556/43aa2a94-ac80-44f8-9ba0-a07be155dcee-cover.png",
+                            "https://s3-alpha.figma.com/hub/file/2003668394/9459ecf7-6a5c-4b35-a11f-42fc33cee349-cover.png"
+                        ],
+                        "cell": "foodwebsite",
+                        "cellmembers": [
+                            {
+                                "ux": [
+                                    {
+                                        "id": 7,
+                                        "name": "Erin",
+                                        "lastname": "Hannon",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 4,
+                                        "name": "Kelly",
+                                        "lastname": "Kapoor",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    },
+                                    {
+                                        "id": 3,
+                                        "name": "Jim",
+                                        "lastname": "Halpert",
+                                        "circles": [
+                                            {
+                                                "one": "UX/UI",
+                                                "two": "Coordination"
+                                            }
+                                        ],
+                                        "role": "team member"
+                                    }
+                                ]
+                            }
+                        ],
+                        "cellLead": [
+                            {
+                                "id": 0,
+                                "name": "Michael",
+                                "lastname": "Scott",
+                                "circles": [
+                                    {
+                                        "one": "Coordination"
+                                    }
+                                ],
+                                "isLead": true,
+                                "role": "lead"
+                            }
+                        ],
+                        "collaborators": [
+                            {
+                                "name": "Jan Levinson",
+                                "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
+                                "color": "#2E39A7",
+                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "textColor": "white"
+                            }
+                        ],
+                        "docs": [
+                            {
+                                "text": "UX Analysis Figma Slides",
+                                "link": "https://www.figma.com/"
+                            }
+                        ],
+                        "timeline": [
+                            {
+                                "title": "Brief | April 2024",
+                                "time": "35"
+                            },
+                            {
+                                "title": "UX Research and Analysis | July 2024",
+                                "time": "55"
+                            },
+                            {
+                                "title": "Presentation Delivery | August 2024",
+                                "time": "75"
+                            },
+                            {
+                                "title": "Development and deployment | September 2024",
+                                "time": "100"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}

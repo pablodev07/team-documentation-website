@@ -1,0 +1,236 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "structureTitle": "Tech Lead",
+            "people": {
+                "one": [
+                    {
+                        "id": 0,
+                        "name": "Michael",
+                        "lastname": "Scott",
+                        "circles": [
+                            {
+                                "one": "Coordination"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 1,
+            "structureTitle": "Chapter Leads",
+            "people": {
+                "one": [
+                    {
+                        "id": 1,
+                        "name": "Dwight",
+                        "lastname": "Schrute",
+                        "circles": [
+                            {
+                                "one": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 2,
+                        "name": "Pam",
+                        "lastname": "Beesly",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "Coordination",
+                                "three": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "three": [
+                    {
+                        "id": 3,
+                        "name": "Jim",
+                        "lastname": "Halpert",
+                        "circles": [
+                            {
+                                "one": "Development",
+                                "two": "UX"
+                            }
+                        ]
+                    }
+                ],
+                "four": [
+                    {
+                        "id": 4,
+                        "name": "Oscar",
+                        "lastname": "Martinez",
+                        "circles": [
+                            {
+                                "one": "UX"
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "structureTitle": "Team Members",
+            "people": {
+                "one": [
+                    {
+                        "id": 14,
+                        "name": "Kelly",
+                        "lastname": "Kapoor",
+                        "circles": [
+                            {
+                                "one": "UX"
+                            }
+                        ]
+                    }
+                ],
+                "two": [
+                    {
+                        "id": 5,
+                        "name": "Andy",
+                        "lastname": "Bernard",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "three": [
+                    {
+                        "id": 6,
+                        "name": "Darryl",
+                        "lastname": "Philbin",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "four": [
+                    {
+                        "id": 7,
+                        "name": "Erin",
+                        "lastname": "Hannon",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "UX"
+                            }
+                        ]
+                    }
+                ],
+                "five": [
+                    {
+                        "id": 8,
+                        "name": "Angela",
+                        "lastname": "Martin",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "six": [
+                    {
+                        "id": 9,
+                        "name": "David",
+                        "lastname": "Wallace",
+                        "circles": [
+                            {
+                                "one": "Content",
+                                "two": "UX"
+                            }
+                        ]
+                    }
+                ],
+                "seven": [
+                    {
+                        "id": 10,
+                        "name": "Todd",
+                        "lastname": "Packer",
+                        "circles": [
+                            {
+                                "one": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "eight": [
+                    {
+                        "id": 11,
+                        "name": "Meredith",
+                        "lastname": "Palmer",
+                        "circles": [
+                            {
+                                "one": "Content"
+                            }
+                        ]
+                    }
+                ],
+                "nine": [
+                    {
+                        "id": 12,
+                        "name": "Holly",
+                        "lastname": "Flax",
+                        "circles": [
+                            {
+                                "one": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "ten": [
+                    {
+                        "id": 13,
+                        "name": "Nellie",
+                        "lastname": "Bertram",
+                        "circles": [
+                            {
+                                "one": "Development"
+                            }
+                        ]
+                    }
+                ],
+                "eleven": [
+                    {
+                        "id": 15,
+                        "name": "Jo",
+                        "lastname": "Bennet",
+                        "circles": [
+                            {
+                                "one": "Development",
+                                "two": "Content"
+                            }
+                        ]
+                    }
+                ],
+                "twelve": [
+                    {
+                        "id": 16,
+                        "name": "Moses",
+                        "lastname": "Schrute",
+                        "circles": [
+                            {
+                                "one": "Development",
+                                "two": "Content"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    ]
+}
