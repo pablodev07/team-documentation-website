@@ -1,5 +1,3 @@
-<img src="/public/assets/images/agency_logo.svg"/>
-
 # VISIONARIO
 
 ### THE BIBLE OF A DEVELOPMENT AND UX TEAM
