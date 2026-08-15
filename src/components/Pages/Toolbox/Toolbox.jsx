@@ -94,7 +94,7 @@ const Toolbox = () => {
                     </Flex>
                     {filteredManagementTerms.length > 0 && (
                         <Box>
-                            <Text as="h4" textTransform="uppercase" mb="2">GENERAL/BASIC TERMS</Text>
+                            <Text as="h3" textTransform="uppercase" mb="2">GENERAL/BASIC TERMS</Text>
                             <Text as="p" pt="10px" pb="50px">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.
                             </Text>
@@ -104,7 +104,7 @@ const Toolbox = () => {
                     )}
                     {(filteredDevTerms.length > 0 && filteredUxTerms.length > 0) && (
                         <Box>
-                            <Text as="h4" textTransform="uppercase" mb="2">TECHNICAL TERMS</Text>
+                            <Text as="h3" textTransform="uppercase" mb="2">TECHNICAL TERMS</Text>
                             <Text as="p" pt="10px" pb="50px">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.
                             </Text>

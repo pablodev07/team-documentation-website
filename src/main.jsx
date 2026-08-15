@@ -1,5 +1,3 @@
-window.global ||= window;
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 import theme from "./theme/index";
@@ -42,7 +40,7 @@ const router = createBrowserRouter([
       {
         path: "/who/:id",
         element: <Index/>,
-        errorElement: <Error404/>
+        //errorElement: <Error404/>
       },
       {
         path: "/what",
