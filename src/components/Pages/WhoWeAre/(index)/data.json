@@ -70,7 +70,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -184,7 +184,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -498,7 +498,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -582,7 +582,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -793,7 +793,7 @@
               "category": "Coordination"
             },
             "five": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Content"
             },
             "six": {
@@ -865,7 +865,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -884,6 +884,446 @@
           "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
           "Language: English"
         ]
+      }
+    },
+     {
+      "id": 9,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "UX"
+          }
+        ],
+        "firstname": "Stanley",
+        "lastname": "Hudson",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "graphic design",
+              "category": "UX"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "three": {
+              "name": "banners",
+              "category": "Content"
+            },
+            "four": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "six": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "seven": {
+              "name": "documentation",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "User Research Methodologies",
+          "User Interface (UI) Design",
+          "User Personas",
+          "User Flows and Journeys",
+          "Wireframing and Prototyping",
+          "Visual Design Principles",
+          "Accessibility (WCAG guidelines)",
+          "Design Systems",
+          "Collaboration and Communication",
+          "Design Tools (Figma, Sketch, Adobe XD)"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Cars Company",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Advertising Agency",
+              "category": "Development"
+            },
+            "three": {
+              "name": "VIP Businessmen website",
+              "category": "UX"
+            },
+            "four": {
+              "name": "The Most Popular Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Women's Magazine",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Airlines",
+              "category": "Development"
+            }
+          }
+        ],
+        "jobTitle": "UX Designer",
+        "certificates": [
+          "Degree: Bachelor of Fine Arts in Interaction Design, California College of the Arts",
+          "Course: User Research Fundamentals, Nielsen Norman Group",
+          "Course: UX Design Masterclass, Interaction Design Foundation",
+          "Course: Design Thinking Workshop, IDEO U",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Development"
+          }
+        ],
+        "firstname": "Todd",
+        "lastname": "Packer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "two": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "Front-End Basics: HTML, CSS, JavaScript",
+          "JavaScript Frameworks: Basic understanding of one or more (React, Vue.js, Angular)",
+          "Back-End Basics: Understanding of server-side principles",
+          "Server-Side Language: Familiarity with at least one (e.g., Python, Node.js, Java, PHP)",
+          "Databases: Basic SQL knowledge, introduction to NoSQL",
+          "API Interaction: Understanding of RESTful APIs",
+          "Version Control: Git and GitHub/GitLab basics",
+          "Basic Testing: Unit and integration testing concepts",
+          "Debugging and Troubleshooting: Basic skills",
+          "Problem-Solving: Ability to analyze and solve coding challenges",
+          "Learning Agility: Eagerness to learn new technologies and adapt quickly",
+          "Communication: Effective communication within a team",
+          "Collaboration: Ability to work effectively with others"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Newspaper",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Food Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "VIP Businessmen website",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Gossip News website",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Website Ads",
+              "category": "UX"
+            }
+          }
+        ],
+        "jobTitle": "back end developer",
+        "certificates": [
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 11,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content"
+          }
+        ],
+        "firstname": "Meredith",
+        "lastname": "Palmer",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "graphic design",
+              "category": "UX"
+            },
+            "two": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "three": {
+              "name": "banners",
+              "category": "Content"
+            },
+            "four": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "creative design",
+              "category": "UX"
+            },
+            "six": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "seven": {
+              "name": "documentation",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "knowledge": [
+          "User Research Methodologies",
+          "User Interface (UI) Design",
+          "Collaboration and Communication",
+          "Design Tools (Figma, Sketch, Adobe XD)"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "Cars Company",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Advertising Agency",
+              "category": "Development"
+            },
+            "three": {
+              "name": "VIP Businessmen website",
+              "category": "UX"
+            },
+            "four": {
+              "name": "The Most Popular Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Women's Magazine",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Airlines",
+              "category": "Development"
+            }
+          }
+        ],
+        "jobTitle": "Content Writer",
+        "certificates": [
+          "Degree: Bachelor of Fine Arts in Interaction Design, California College of the Arts",
+          "Course: User Research Fundamentals, Nielsen Norman Group",
+          "Course: UX Design Masterclass, Interaction Design Foundation",
+          "Course: Design Thinking Workshop, IDEO U",
+          "Language: English"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Development"
+          }
+        ],
+        "firstname": "Holly",
+        "lastname": "Flax",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "two": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "Front-End Basics: HTML, CSS, JavaScript",
+          "JavaScript Frameworks: Basic understanding of one or more (React, Vue.js, Angular)",
+          "API Interaction: Understanding of RESTful APIs",
+          "Version Control: Git and GitHub/GitLab basics",
+          "Basic Testing: Unit and integration testing concepts",
+          "Debugging and Troubleshooting: Basic skills",
+          "Problem-Solving: Ability to analyze and solve coding challenges",
+          "Communication: Effective communication within a team",
+          "Collaboration: Ability to work effectively with others"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Newspaper",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Food Company",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "VIP Businessmen website",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Gossip News website",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Website Ads",
+              "category": "UX"
+            }
+          }
+        ],
+        "jobTitle": "front end developer",
+        "certificates": [
+    "Course: The Complete 2020 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 13,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Development"
+          }
+        ],
+        "firstname": "Nellie",
+        "lastname": "Bertram",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "two": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "Front-End Basics: HTML, CSS, JavaScript",
+          "JavaScript Frameworks: Basic understanding of one or more (React, Vue.js, Angular)",
+          "Back-End Basics: Understanding of server-side principles",
+          "Server-Side Language: Familiarity with at least one (e.g., Python, Node.js, Java, PHP)",
+          "Databases: Basic SQL knowledge, introduction to NoSQL",
+          "API Interaction: Understanding of RESTful APIs",
+          "Version Control: Git and GitHub/GitLab basics",
+          "Basic Testing: Unit and integration testing concepts",
+          "Debugging and Troubleshooting: Basic skills",
+          "Problem-Solving: Ability to analyze and solve coding challenges",
+          "Learning Agility: Eagerness to learn new technologies and adapt quickly",
+          "Communication: Effective communication within a team",
+          "Collaboration: Ability to work effectively with others"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Newspaper",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            },
+            "four": {
+              "name": "Pharmacy",
+              "category": "Coordination"
+            }
+          }
+        ],
+        "jobTitle": "back end developer",
+        "certificates": [
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Language: English"
+  ]
       }
     },
     {
@@ -953,7 +1393,7 @@
               "category": "Content"
             },
             "two": {
-              "name": "Women Magazine",
+              "name": "Women's Magazine",
               "category": "Development"
             },
             "three": {
@@ -972,6 +1412,214 @@
     "Course: User Research Fundamentals, Nielsen Norman Group",
     "Course: UX Design Masterclass, Interaction Design Foundation",
     "Course: Design Thinking Workshop, IDEO U",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 15,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Development"
+          }
+        ],
+        "firstname": "Ryan",
+        "lastname": "Howard",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "six": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "JavaScript Frameworks: React, Vue.js",
+          "HTML5 and CSS3",
+          "Responsive Web Design",
+          "State Management (e.g., Redux, Vuex)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Cross-Browser Compatibility",
+          "Component Libraries (e.g., Material UI, Ant Design)",
+          "Styling Preprocessors (Sass, Less)",
+          "Progressive Web Apps (PWAs)",
+          "API Integration (REST, GraphQL)",
+          "Debugging and Troubleshooting"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women's Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Newspaper",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Ad Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Health Agency",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Insurance Company",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Music Company",
+              "category": "UX"
+            },
+            "eight": {
+              "name": "Club Disco",
+              "category": "Coordination"
+            },
+            "nine": {
+              "name": "VIP Businessmen",
+              "category": "Content"
+            }
+          }
+        ],
+        "jobTitle": "devops",
+        "certificates": [
+    "Degree: Associate Degree in Web Development, Community College of Allegheny County",
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
+    "Language: English"
+  ]
+      }
+    },
+    {
+      "id": 16,
+      "content": {
+        "category": "team member",
+        "circles": [
+          {
+            "one": "Content",
+            "two": "Development"
+          }
+        ],
+        "firstname": "Moses",
+        "lastname": "Schrute",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur. Maecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.\nNullam porttitor odio eget bibendum lobortis. Nullam posuere egestas vestibulum. Duis eu dolor fringilla turpis scelerisque pharetra viverra eu velit. Sed iaculis nunc a eros vulputate, id tristique dui rhoncus. Fusce maximus nec magna eu tempor. Nam sodales, urna eu lacinia placerat, nulla urna congue tortor, sit amet egestas justo purus nec tellus. Fusce vitae est id magna pharetra condimentum eleifend sed lacus. Donec semper mauris quis tellus semper, in pellentesque massa luctus. Nullam sit amet elementum odio.",
+        "areas": [
+          {
+            "one": {
+              "name": "front end development",
+              "category": "Development"
+            },
+            "two": {
+              "name": "content writing",
+              "category": "Content"
+            },
+            "three": {
+              "name": "responsive web design",
+              "category": "Development"
+            },
+            "four": {
+              "name": "CMS platforms",
+              "category": "Content"
+            },
+            "five": {
+              "name": "leadership",
+              "category": "Coordination"
+            },
+            "six": {
+              "name": "banners",
+              "category": "Content"
+            }
+          }
+        ],
+        "knowledge": [
+          "JavaScript Frameworks: React, Vue.js",
+          "HTML5 and CSS3",
+          "Responsive Web Design",
+          "State Management (e.g., Redux, Vuex)",
+          "Version Control (Git, GitHub, GitLab)",
+          "Cross-Browser Compatibility",
+          "Component Libraries (e.g., Material UI, Ant Design)",
+          "Styling Preprocessors (Sass, Less)",
+          "Progressive Web Apps (PWAs)",
+          "API Integration (REST, GraphQL)",
+          "Debugging and Troubleshooting"
+        ],
+        "clients": [
+          {
+            "one": {
+              "name": "The Most Popular Agency",
+              "category": "Content"
+            },
+            "two": {
+              "name": "Women's Magazine",
+              "category": "Development"
+            },
+            "three": {
+              "name": "Newspaper",
+              "category": "UX"
+            },
+            "four": {
+              "name": "Ad Agency",
+              "category": "Coordination"
+            },
+            "five": {
+              "name": "Health Agency",
+              "category": "Content"
+            },
+            "six": {
+              "name": "Insurance Company",
+              "category": "Development"
+            },
+            "seven": {
+              "name": "Music Company",
+              "category": "UX"
+            },
+            "eight": {
+              "name": "Club Disco",
+              "category": "Coordination"
+            },
+            "nine": {
+              "name": "VIP Businessmen",
+              "category": "Content"
+            }
+          }
+        ],
+        "jobTitle": "back end developer",
+        "certificates": [
+    "Degree: Associate Degree in Web Development, Community College of Allegheny County",
+    "Course: The Complete 2023 Web Development Bootcamp, Udemy",
+    "Course:  JavaScript Algorithms and Data Structures Masterclass, Udemy",
+    "Course: React - The Complete Guide (incl Hooks, React Router, Redux), Udemy",
     "Language: English"
   ]
       }

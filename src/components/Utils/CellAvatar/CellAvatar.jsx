@@ -52,7 +52,7 @@ const CellAvatar = ({ person, index }) => {
             <Flex alignItems="center" flexDirection="column" width="fit-content" position="relative" transition="all .5s" _hover={{ fontFamily: "SB" }} sx={{ transition: "all .5s" }} >
                 <Flex h={{ base: "50px", lg: "170px" }} w={{ base: "50px", lg: "170px" }} mb={3} position="relative" justifyContent="center" alignItems="center" scale="(1)" _hover={{ transform: "scale(1.1)" }} sx={{ transition: "all .3s ease-in-out" }} onMouseOver={onHover} onClick={() => setIsHovered(!isHovered)}
                     onMouseLeave={onMouseLeave}>
-                    <Image borderRadius="100%" h={leadAvatar ? { base: "50px", lg: "7rem" } : { base: "45px", lg: "6.4rem" }} w={leadAvatar ? { base: "60px", lg: "7rem" } : { base: "45px", lg: "6.4rem" }} objectFit="cover" filter="grayscale(100%)" src={`https://avatar.iran.liara.run/public/${person.id + 1}`} alt={`Picture of ${person.name} ${person.lastname}, ${person.role} of this POD's project`} zIndex="5" />
+                    <Image borderRadius="100%" h={leadAvatar ? { base: "50px", lg: "7rem" } : { base: "45px", lg: "6.4rem" }} w={leadAvatar ? { base: "60px", lg: "7rem" } : { base: "45px", lg: "6.4rem" }} objectFit="cover" filter="grayscale(100%)" src={`https://avatar.shifaul.dev/public/${person.id + 1}`} alt={`Picture of ${person.name} ${person.lastname}, ${person.role} of this POD's project`} zIndex="5" />
                     {person.circles && (
                         <Flex flexDirection="column" className="circlesContainer" position="absolute" h={{ base: "50px", lg: "100%" }} w={{ base: "50px", lg: "100%" }}>
                             {Object.values(person.circles[0]).map((circle, categoryIndex) => {

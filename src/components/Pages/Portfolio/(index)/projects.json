@@ -81,22 +81,22 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
-                                "name": "Kevin Malone",
+                                "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "cellLead": [
@@ -233,28 +233,28 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
-                                "name": "Kevin Malone",
+                                "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             },
                             {
                                 "name": "Cathy Simms",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "cellLead": [
@@ -384,16 +384,16 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Meredith Palmer",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "timeline": [
@@ -508,10 +508,10 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non..",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             }
                         ],
                         "timeline": [
@@ -577,7 +577,7 @@
         },
         {
             "id": 2,
-            "clientTitle": "Women Magazine",
+            "clientTitle": "Women's Magazine",
             "tabs": {
                 "one": [
                     {
@@ -695,19 +695,19 @@
                                 "name": "Phyllis Lapin-Vance",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             },
                             {
                                 "name": "Robert California",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "docs": [
@@ -824,16 +824,16 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Ryan Howard",
+                                "name": "Deangelo Vickers",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             }
                         ],
                         "docs": [
@@ -854,10 +854,10 @@
                     {
                         "id": 0,
                         "title": "HTML Website Layouting",
-                        "context": "Peachy es una plataforma de subscripción de contenido. Este proyecto es trabajado en conjunto con Consultancy Company,donde se asistió a dicha agencia para agilizar con la producción del proyecto.",
+                        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus volutpat posuere lectus a eleifend. Nam elementum orci non est pulvinar, vel ultricies orci tempor. Nam pharetra dignissim nisl eu mattis.",
                         "synopsis": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non. Integer porttitor commodo orci eu molestie. Fusce mattis accumsan rhoncus. Nulla dapibus urna eget risus porta efficitur.\nMaecenas ligula metus, feugiat molestie dapibus sed, pharetra eget velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam rutrum ex vitae odio molestie, non faucibus massa elementum. Morbi porttitor tellus ac varius iaculis. Nullam sed libero et lectus rutrum tempor id quis est.",
                         "banner": [
-                            "/assets/images/projects/peachy.jpg"
+                            "https://s3-alpha.figma.com/hub/file/3589740630/afc6bc30-d761-46ac-920b-b91456b9e9dd-cover.png"
                         ],
                         "cell": "consultancycompany1",
                         "cellmembers": [
@@ -904,16 +904,16 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Kevin Malone",
+                                "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "timeline": [
@@ -1037,19 +1037,19 @@
                                 "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#D6E05F",
-                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "image": "https://avatar.shifaul.dev/public/girl",
                                 "textColor": "#191528"
                             }
                         ],
@@ -1139,16 +1139,16 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Phyllis Lapin-Vance",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image":"https://avatar.iran.liara.run/public/girl"
+                                "image":"https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "cellLead": [
@@ -1314,16 +1314,16 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Meredith Palmer",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "tech": [
@@ -1425,10 +1425,10 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             }
                         ],
                         "timeline": [
@@ -1568,22 +1568,22 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Stanley Hudson",
+                                "name": "Hank Tate",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Creed Bratton",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Meredith Palmer",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "docs": [
@@ -1672,11 +1672,11 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Kevin Malone",
+                                "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#D6E05F",
                                 "textColor": "#191528",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             }
                         ],
                         "timeline": [
@@ -1722,7 +1722,7 @@
                         "banner": [
                             "https://s3-alpha.figma.com/hub/file/858291939/14dda654-9bf1-47a5-ba66-904aa3003c6e-cover.png"
                         ],
-                        "cell": "Graphic Design",
+                        "cell": "foodwebsite",
                         "cellmembers": [
                             {
                                 "dev": [
@@ -1770,13 +1770,13 @@
                                 "name": "Meredith Palmer",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "timeline": [
@@ -1892,19 +1892,19 @@
                                 "name": "Roy Anderson",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#E73AF6",
-                                "image": "https://avatar.iran.liara.run/public/boy"
+                                "image": "https://avatar.shifaul.dev/public/boy"
                             },
                             {
                                 "name": "Meredith Palmer",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl"
+                                "image": "https://avatar.shifaul.dev/public/girl"
                             }
                         ],
                         "process": [
@@ -2016,17 +2016,17 @@
                         ],
                         "collaborators": [
                             {
-                                "name": "Kevin Malone",
+                                "name": "Gabe Lewis",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                                 "color": "#D6E05F",
-                                "image": "https://avatar.iran.liara.run/public/boy",
+                                "image": "https://avatar.shifaul.dev/public/boy",
                                 "textColor": "#191528"
                             },
                             {
                                 "name": "Karen Fillippelli",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#D6E05F",
-                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "image": "https://avatar.shifaul.dev/public/girl",
                                 "textColor": "#191528"
                             }
                         ],
@@ -2128,7 +2128,7 @@
                                 "name": "Jan Levinson",
                                 "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas quis egestas diam, quis tincidunt dui. Fusce placerat vulputate est, sit amet volutpat dui laoreet non.",
                                 "color": "#2E39A7",
-                                "image": "https://avatar.iran.liara.run/public/girl",
+                                "image": "https://avatar.shifaul.dev/public/girl",
                                 "textColor": "white"
                             }
                         ],

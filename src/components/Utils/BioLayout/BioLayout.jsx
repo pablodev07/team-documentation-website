@@ -58,7 +58,7 @@ const BioLayout = ({ bioContent }) => {
                         })
                     ))}
 
-                    <Image alt={`Picture of ${bioContent.content.firstname} ${bioContent.content.lastname}`} src={`https://avatar.iran.liara.run/public/${bioContent.id + 1}`} h={{ base: "90px", md: "190px" }} w={{ base: "90px", md: "190px" }} objectFit="cover" position="relative" className="profilePicture" borderRadius="100%" sx={{ transition: "height 1s" }} filter="grayscale(100%)" />
+                    <Image alt={`Picture of ${bioContent.content.firstname} ${bioContent.content.lastname}`} src={`https://avatar.shifaul.dev/public/${bioContent.id + 1}`}  h={{ base: "90px", md: "190px" }} w={{ base: "90px", md: "190px" }} objectFit="cover" position="relative" className="profilePicture" borderRadius="100%" sx={{ transition: "height 1s" }} filter="grayscale(100%)" />
                 </Flex>
                 <Text as="h4" textTransform="uppercase" display="flex" flexDirection="column" justifyContent="center" alignItems="center">{bioContent.content.firstname} <span>{bioContent.content.lastname}</span></Text>
             </Flex>
